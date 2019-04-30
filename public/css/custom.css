@@ -65,7 +65,7 @@ select {
 }
 
 .hero {
-	background: url('/img/threely-photo.jpeg') no-repeat center center fixed;
+	background: url('https://www.telenews.pk/wp-content/uploads/2017/06/delicious-food.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
